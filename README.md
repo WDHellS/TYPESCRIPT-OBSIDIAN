@@ -3,7 +3,8 @@ where all begins
 
 ## Developed Features
 🔻Idealization and conceptualized organization<br>
-🔻Built, working, and tested on Obsidian version 1.14.4.
+🔻Built, working, and tested on Obsidian version 1.14.4.<br>
+&ensp;&ensp;&ensp;<sub>Keep a backup of this version in case future versions cause any issues.</sub>
 
 ---
 
@@ -85,7 +86,7 @@ WIP<br>
 
 `Settings > WDS.DarkBrain®Notes > Interface Options > Theming :` **Pattern Detection**<br>
 
-🔹 renders collapsed headings decoration<br>
+🔹 renders decorative elements for headings.<br>
 🔹 renders DarkBrain-Emphasis
   - <details>
     <summary>descriptions</summary>
