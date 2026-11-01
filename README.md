@@ -1,10 +1,11 @@
-# **WDS.DarkBrain®Notes** | Obsidian Plug-in
-where all begins
+# **WDS.DarkBrain®Notes**
+where all begins, a custom-made plugin
 
 ## Developed Features
 🔻Idealization and conceptualized organization<br>
 🔻Built, working, and tested on Obsidian version 1.14.4.<br>
-&ensp;&ensp;&ensp;<sub>Keep a backup of this version in case future versions cause any issues.</sub>
+&ensp;&ensp;&ensp;<sub>Keep a backup of this version in case future versions cause any issues.</sub><br>
+🔻<sub>If the plug-in is moved to the official channel, it must be removed from the official channel under **Issues** and preserved in the original source directory.<br>&ensp;&ensp;&ensp;https://github.com/WDHellS/TYPESCRIPT-OBSIDIAN</sub>
 
 ---
 
